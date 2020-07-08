@@ -1,4 +1,4 @@
-name = input("name : ")
+name = input("name : ").title()
 if name == "Joseph":
     print("Hello, Joseph! The password is : W@12,")
 else:
