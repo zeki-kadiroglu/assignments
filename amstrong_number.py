@@ -2,7 +2,7 @@ number = input("enter positive integer : ")
 list = list(number)
 amstrong = 0
 total = []
-for i in number :
+for i in number:
     amstrong = int(i) ** len(list)
     i += i
     total.append(amstrong)
