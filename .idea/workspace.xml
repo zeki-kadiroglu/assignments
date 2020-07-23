@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="dc30913a-da0c-4652-bdf9-27e9fc80594a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment9 -letter count.py" beforeDir="false" afterPath="$PROJECT_DIR$/assignment9 -letter count.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,7 +31,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Python.assignment9 -letter count">
+  <component name="RunManager" selected="Python.assignmet- 9 letter_count">
     <configuration name="Unnamed" type="CompoundRunConfigurationType">
       <method v="2" />
     </configuration>
@@ -118,7 +119,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="boş_çalışma" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="assignmet- 9 letter_count" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python-assignment1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -130,7 +131,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/boş_çalışma.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/assignmet- 9 letter_count.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -141,19 +142,19 @@
     </configuration>
     <list>
       <item itemvalue="Compound.Unnamed" />
-      <item itemvalue="Python.FizzBuzz" />
       <item itemvalue="Python.amstrong_number" />
       <item itemvalue="Python.assignment2-covid19" />
+      <item itemvalue="Python.FizzBuzz" />
       <item itemvalue="Python.assignment9 -letter count" />
-      <item itemvalue="Python.boş_çalışma" />
+      <item itemvalue="Python.assignmet- 9 letter_count" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.assignmet- 9 letter_count" />
         <item itemvalue="Python.assignment9 -letter count" />
         <item itemvalue="Python.FizzBuzz" />
         <item itemvalue="Python.amstrong_number" />
         <item itemvalue="Python.assignment2-covid19" />
-        <item itemvalue="Python.boş_çalışma" />
       </list>
     </recent_temporary>
   </component>
@@ -210,14 +211,22 @@
       <option name="project" value="LOCAL" />
       <updated>1595500008558</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="assignment9 letter count">
+      <created>1595500158391</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1595500158391</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="düzeltme" />
     <MESSAGE value="amstrong assignment" />
     <MESSAGE value="FizzBuzz assignment 7" />
-    <option name="LAST_COMMIT_MESSAGE" value="FizzBuzz assignment 7" />
+    <MESSAGE value="assignment9 letter count" />
+    <option name="LAST_COMMIT_MESSAGE" value="assignment9 letter count" />
   </component>
   <component name="WindowStateProjectService">
     <state x="779" y="194" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1594210658648">
@@ -228,11 +237,11 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1041" y="328" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1594292641967" />
-    <state x="1062" y="121" key="CommitChangelistDialog2" timestamp="1595500007800">
+    <state x="1062" y="121" key="CommitChangelistDialog2" timestamp="1595500157501">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1062" y="121" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1594230865313" />
-    <state x="1062" y="121" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1595500007800" />
+    <state x="1062" y="121" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1595500157501" />
     <state x="366" y="99" key="DiffContextDialog" timestamp="1594230820255">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -281,15 +290,15 @@
     </state>
     <state width="906" height="344" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1595497285209" />
     <state width="906" height="344" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1595500076712" />
-    <state x="999" y="266" key="Vcs.Push.Dialog.v2" timestamp="1595500011599">
+    <state x="999" y="266" key="Vcs.Push.Dialog.v2" timestamp="1595500162360">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="999" y="266" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1594230826028" />
-    <state x="999" y="266" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1595500011599" />
-    <state x="341" y="354" key="com.intellij.ide.util.TipDialog" timestamp="1595500121164">
+    <state x="999" y="266" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1595500162360" />
+    <state x="341" y="354" key="com.intellij.ide.util.TipDialog" timestamp="1595501492715">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="341" y="354" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1595500121164" />
+    <state x="341" y="354" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1595501492715" />
     <state x="1216" y="450" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1594230836132">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
