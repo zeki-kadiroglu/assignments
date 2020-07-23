@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dc30913a-da0c-4652-bdf9-27e9fc80594a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/assignment9 -letter count.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/amstrong_number.py" beforeDir="false" afterPath="$PROJECT_DIR$/amstrong_number.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,10 +29,31 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Python.amstrong_number">
+  <component name="RunManager" selected="Python.assignment9 -letter count">
     <configuration name="Unnamed" type="CompoundRunConfigurationType">
+      <method v="2" />
+    </configuration>
+    <configuration name="FizzBuzz" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python-assignment1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FizzBuzz.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
     <configuration name="amstrong_number" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
@@ -77,6 +98,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="assignment9 -letter count" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python-assignment1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/assignment9 -letter count.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="boş_çalışma" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python-assignment1" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -103,9 +145,13 @@
       <item itemvalue="Python.boş_çalışma" />
       <item itemvalue="Python.amstrong_number" />
       <item itemvalue="Python.assignment2-covid19" />
+      <item itemvalue="Python.FizzBuzz" />
+      <item itemvalue="Python.assignment9 -letter count" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.assignment9 -letter count" />
+        <item itemvalue="Python.FizzBuzz" />
         <item itemvalue="Python.amstrong_number" />
         <item itemvalue="Python.assignment2-covid19" />
         <item itemvalue="Python.boş_çalışma" />
@@ -151,13 +197,21 @@
       <option name="project" value="LOCAL" />
       <updated>1594287788364</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="FizzBuzz assignment 7">
+      <created>1595235449723</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1595235449723</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="düzeltme" />
     <MESSAGE value="amstrong assignment" />
-    <option name="LAST_COMMIT_MESSAGE" value="amstrong assignment" />
+    <MESSAGE value="FizzBuzz assignment 7" />
+    <option name="LAST_COMMIT_MESSAGE" value="FizzBuzz assignment 7" />
   </component>
   <component name="WindowStateProjectService">
     <state x="779" y="194" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1594210658648">
@@ -168,11 +222,11 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1041" y="328" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1594292641967" />
-    <state x="1062" y="121" key="CommitChangelistDialog2" timestamp="1594287787690">
+    <state x="1062" y="121" key="CommitChangelistDialog2" timestamp="1595235449002">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1062" y="121" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1594230865313" />
-    <state x="1062" y="121" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1594287787690" />
+    <state x="1062" y="121" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1595235449002" />
     <state x="366" y="99" key="DiffContextDialog" timestamp="1594230820255">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -181,47 +235,51 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1062" y="281" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1594292738752" />
-    <state width="749" height="338" key="GridCell.Tab.0.bottom" timestamp="1594292779839">
+    <state width="906" height="277" key="GridCell.Tab.0.bottom" timestamp="1595499912990">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="893" height="273" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1594230768979" />
-    <state width="749" height="338" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1594292779839" />
-    <state width="749" height="338" key="GridCell.Tab.0.center" timestamp="1594292779839">
+    <state width="906" height="277" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1595497475497" />
+    <state width="906" height="277" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1595499912990" />
+    <state width="906" height="277" key="GridCell.Tab.0.center" timestamp="1595499912990">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="893" height="273" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1594230768978" />
-    <state width="749" height="338" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1594292779839" />
-    <state width="749" height="338" key="GridCell.Tab.0.left" timestamp="1594292779839">
+    <state width="906" height="277" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1595497475497" />
+    <state width="906" height="277" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1595499912990" />
+    <state width="906" height="277" key="GridCell.Tab.0.left" timestamp="1595499912990">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="893" height="273" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1594230768978" />
-    <state width="749" height="338" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1594292779839" />
-    <state width="749" height="338" key="GridCell.Tab.0.right" timestamp="1594292779839">
+    <state width="906" height="277" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1595497475497" />
+    <state width="906" height="277" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1595499912990" />
+    <state width="906" height="277" key="GridCell.Tab.0.right" timestamp="1595499912990">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="893" height="273" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1594230768978" />
-    <state width="749" height="338" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1594292779839" />
-    <state width="749" height="338" key="GridCell.Tab.1.bottom" timestamp="1594292779839">
+    <state width="906" height="277" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1595497475497" />
+    <state width="906" height="277" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1595499912990" />
+    <state width="906" height="344" key="GridCell.Tab.1.bottom" timestamp="1595497285209">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state width="906" height="344" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1595497285209" />
     <state width="749" height="338" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1594292779839" />
-    <state width="749" height="338" key="GridCell.Tab.1.center" timestamp="1594292779839">
+    <state width="906" height="344" key="GridCell.Tab.1.center" timestamp="1595497285209">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state width="906" height="344" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1595497285209" />
     <state width="749" height="338" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1594292779839" />
-    <state width="749" height="338" key="GridCell.Tab.1.left" timestamp="1594292779839">
+    <state width="906" height="344" key="GridCell.Tab.1.left" timestamp="1595497285209">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state width="906" height="344" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1595497285209" />
     <state width="749" height="338" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1594292779839" />
-    <state width="749" height="338" key="GridCell.Tab.1.right" timestamp="1594292779839">
+    <state width="906" height="344" key="GridCell.Tab.1.right" timestamp="1595497285209">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state width="906" height="344" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1595497285209" />
     <state width="749" height="338" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1594292779839" />
-    <state x="999" y="266" key="Vcs.Push.Dialog.v2" timestamp="1594288187176">
+    <state x="999" y="266" key="Vcs.Push.Dialog.v2" timestamp="1595235456779">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="999" y="266" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1594230826028" />
-    <state x="999" y="266" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1594288187176" />
+    <state x="999" y="266" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1595235456779" />
     <state x="341" y="354" key="com.intellij.ide.util.TipDialog" timestamp="1594292790428">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
