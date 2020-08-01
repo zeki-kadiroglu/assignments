@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dc30913a-da0c-4652-bdf9-27e9fc80594a" name="Default Changelist" comment="">
+    <list default="true" id="dc30913a-da0c-4652-bdf9-27e9fc80594a" name="Default Changelist" comment="sudoku assignment.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -203,14 +203,22 @@
       <option name="project" value="LOCAL" />
       <updated>1595235449723</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="sudoku assignment.">
+      <created>1596298230087</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1596298230087</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="düzeltme" />
     <MESSAGE value="amstrong assignment" />
     <MESSAGE value="FizzBuzz assignment 7" />
-    <option name="LAST_COMMIT_MESSAGE" value="FizzBuzz assignment 7" />
+    <MESSAGE value="sudoku assignment." />
+    <option name="LAST_COMMIT_MESSAGE" value="sudoku assignment." />
   </component>
   <component name="WindowStateProjectService">
     <state x="779" y="194" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1594210658648">
@@ -221,11 +229,11 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1041" y="328" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1594292641967" />
-    <state x="1062" y="121" key="CommitChangelistDialog2" timestamp="1595235449002">
+    <state x="1062" y="121" key="CommitChangelistDialog2" timestamp="1596298564087">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1062" y="121" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1594230865313" />
-    <state x="1062" y="121" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1595235449002" />
+    <state x="1062" y="121" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1596298564087" />
     <state x="366" y="99" key="DiffContextDialog" timestamp="1594230820255">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -274,11 +282,11 @@
     </state>
     <state width="906" height="344" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1595497285209" />
     <state width="749" height="338" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1594292779839" />
-    <state x="999" y="266" key="Vcs.Push.Dialog.v2" timestamp="1595235456779">
+    <state x="999" y="266" key="Vcs.Push.Dialog.v2" timestamp="1596298234768">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="999" y="266" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1594230826028" />
-    <state x="999" y="266" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1595235456779" />
+    <state x="999" y="266" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1596298234768" />
     <state x="341" y="354" key="com.intellij.ide.util.TipDialog" timestamp="1595502118765">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
